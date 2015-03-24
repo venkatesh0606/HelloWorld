@@ -6,7 +6,7 @@ public class Project {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println("---------Project1--------");
+		System.out.println("---------Project1---to Projects-----");
 	}
 
 }
